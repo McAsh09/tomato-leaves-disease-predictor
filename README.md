@@ -5,7 +5,10 @@
  <h3>1. Rethinking the Inception Architecture for Computer Vision
 Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna https://arxiv.org/pdf/1512.00567v3</h3>
   <h3>2. Very Deep Convolutional Networks for Large-Scale Image Recognition
-Karen Simonyan, Andrew Zisserman https://arxiv.org/pdf/1409.1556</h3>  <br> 
+Karen Simonyan, Andrew Zisserman https://arxiv.org/pdf/1409.1556</h3>
+  <h3>https://www.researchgate.net/publication/340705523_ToLeD_Tomato_Leaf_Disease_Detection_using_Convolution_Neural_Network</h3>
+
+  <br> 
   
    <h1> Dataset obtained from:   </h1>   
    https://www.kaggle.com/adinishad/tomato-leaf-detection-by-transfer-learning/data
@@ -76,8 +79,6 @@ Karen Simonyan, Andrew Zisserman https://arxiv.org/pdf/1409.1556</h3>  <br>
 </ul> </p> 
   <br> 
 
-<img src="https://i.ibb.co/JnMG6BG/Screenshot-2021-11-06-151905.jpg"> 
-<img src="https://i.ibb.co/61qSfQJ/Screenshot-2021-11-06-152022.jpg"> 
 </ul>
 </p>
 <br>  
